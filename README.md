@@ -1,2 +1,2 @@
 # jsestudos
- curso de javascript curso em video
+ Curso de JavaScript Curso em video
